@@ -1,6 +1,11 @@
+## _NAME_ 
 # GEEK BRAINS - PROGRAMMER - TEST Q1 
 
-## TSET EXECUTION ALGORITHM :
+## _DESCRIPTION_
+
+It is a test after first quater education on Programmer course.
+
+## _TEST EXECUTION ALGORITHM_
 1. Create a repository on GitHub
 2. Draw a flowchart of the algorithm
 3.  Provide the repository with a decorated text description of the solution (*file README.md*)
@@ -10,10 +15,22 @@
 
 ## DONE :
 1. https://github.com/AntonVnotnA/GB_test_Q1.git 
-2. ![Diadram]()
+2. https://github.com/AntonVnotnA/GB_test_Q1/blob/main/task_diagram.pdf
 3. **hear we are :)**
-4. https://
+4. https://github.com/AntonVnotnA/GB_test_Q1/blob/main/CreateStringArray/Program.cs
 
     *NOTE: new array has the same quantity of elements, I haven't found a solution how to exclude empty elements*
-5. 
+5. done
     *NOTE: due to inattention I didn't not follow requirements, by the way, there are several commits*
+
+## _HOW TO RUN THE PROJECT_ 
+NA
+
+## _HOW TO USE THE PROJECT_ 
+NA
+
+
+|Author|Anton Averin|
+|---|---|
+|Course| Programmer|
+
