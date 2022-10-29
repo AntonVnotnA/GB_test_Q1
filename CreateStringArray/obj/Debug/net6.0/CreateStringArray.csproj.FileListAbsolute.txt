@@ -1,0 +1,15 @@
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\obj\Debug\net6.0\CreateStringArray.csproj.AssemblyReference.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\obj\Debug\net6.0\CreateStringArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\obj\Debug\net6.0\CreateStringArray.AssemblyInfoInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\obj\Debug\net6.0\CreateStringArray.AssemblyInfo.cs
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\obj\Debug\net6.0\CreateStringArray.csproj.CoreCompileInputs.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\bin\Debug\net6.0\CreateStringArray.exe
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\bin\Debug\net6.0\CreateStringArray.deps.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\bin\Debug\net6.0\CreateStringArray.runtimeconfig.json
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\bin\Debug\net6.0\CreateStringArray.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\bin\Debug\net6.0\CreateStringArray.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\obj\Debug\net6.0\CreateStringArray.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\obj\Debug\net6.0\refint\CreateStringArray.dll
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\obj\Debug\net6.0\CreateStringArray.pdb
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\obj\Debug\net6.0\CreateStringArray.genruntimeconfig.cache
+C:\WORK_DIR\Programming\GeekBrains\GB_DEVELOPER\GB_Test_Q1\CreateStringArray\obj\Debug\net6.0\ref\CreateStringArray.dll
